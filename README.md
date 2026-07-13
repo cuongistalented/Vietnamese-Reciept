@@ -7,7 +7,7 @@ REMEMBER: This project is kinda old, so use python around 3.10.11
 1. Clone the repo
 
 ```
-git clone https://github.com/duongttr/vireceipt-information-extraction.git
+git clone https://github.com/cuongistalented/Vietnamese-Reciept.git
 cd vireceipt-information-extraction
 ```
 
