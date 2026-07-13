@@ -8,7 +8,6 @@ REMEMBER: This project is kinda old, so use python around 3.10.11
 
 ```
 git clone https://github.com/cuongistalented/Vietnamese-Reciept.git
-cd vireceipt-information-extraction
 ```
 
 2. Install dependency
